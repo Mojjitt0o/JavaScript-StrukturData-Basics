@@ -1,0 +1,42 @@
+/*Dari beberapa jenis variabel , ada yang datanya bisa di reassigned dan redeclared.
+Perlu diketahui, JavaScript merupakan bahasa pemrogaman dengan model data loosely typed, dengan arti
+penentuan tipe datanya dinamis.
+
+Maksudnya, tipe data dalam JavaScript bisa kita ubah-ubah, atau bisa dikenal dengan sebutan dynamic typing.
+Berbeda dengan Java, dikarenakan Java menerapkan static typing. Jadi ketika membuat suatu data atau mendeklarasikan sebuah variabel , kita tidak 
+boleh mengubah dengan tipe data yang berbeda.
+
+Contoh Java
+Static typing:
+string name;    Variables have types
+name = "John"'  Values have types
+name = 34;      Variables cannot change type
+
+Contoh JavaScript
+Dynamic typing:
+var name;       Variables have no types
+name = "John"'  Values have types
+name = 34;      Variables change type dynamically
+
+Jadi JavaScript memiliki tipe data dynamic typing, yang artinya bisa berubah - ubah.
+
+di JavaScript, tipe data dinamis (dynamic type) terbagi dalam dua kelompok, yaitu data primitif dan data non primitif.
+
+- Data Primitif adalah jenis data yang sudah disediakan langsung oleh JavaScript dan bisa secara langsung 
+merepresentasikan suatu nilai.
+
+Yang termasuk dalam data primitif adalah :
+~ String
+~ Number
+~ Boolean
+~ Null
+~ Undefined
+
+- Data non primitif adalah data yang dibuat sendiri oleh developer, yang bisa menyimpan beberapa nilai pada variabel.
+Yang termasuk dalam data non primitif adalah :
+~ Array
+~ Object
+
+
+
+ */
