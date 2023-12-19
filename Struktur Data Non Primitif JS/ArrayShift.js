@@ -5,3 +5,4 @@ const fruits = ["Apple", "Orange", "Durian"]
 fruits.shift()
 
 console.log(fruits);
+//Output: ['Orange', 'Durian']
