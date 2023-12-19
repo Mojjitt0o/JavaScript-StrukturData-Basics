@@ -5,3 +5,4 @@ const fruits = ["Apple", "Orange", "Durian"]
 fruits.pop()
 
 console.log(fruits);
+//Contoh: ['Apple', 'Orange']
